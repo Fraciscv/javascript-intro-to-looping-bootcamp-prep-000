@@ -11,7 +11,7 @@ function forLoop(array) { // Build forLoop function takes array as argument
 }
 
 function whileLoop(n) {
-	while (n.length > 0) {
+	while (n > 0) {
 		console.log(--n);
 	}
 
